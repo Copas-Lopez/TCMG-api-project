@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   api:
     image: cheesepuffs476/api-project
