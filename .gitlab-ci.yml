@@ -1,4 +1,5 @@
 image: docker
+version: 2
 
 services:
   - docker:dind
