@@ -2,7 +2,7 @@ version: '3'
 
 services:
   api:
-    image: copas-lopez/tcmg-api-project
+    image: cheesepuffs476/api-project
     ports:
       - 5000:5000
     depends_on:
